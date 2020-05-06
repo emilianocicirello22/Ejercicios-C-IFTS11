@@ -4,7 +4,7 @@
     **No se podrá usar valores fijos en las fórmulas del algoritmo. Solo variables y/o constantes.** */
 namespace Ejercicio5
 {
-    class Program
+    class Ej5
     {
         static void Main(string[] args)
         {
