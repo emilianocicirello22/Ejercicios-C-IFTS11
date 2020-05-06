@@ -1,5 +1,5 @@
 ﻿using System;
-
+//1)Leer 4 números enteros, calcular la suma e informar el resultado.
 namespace Ejercicio1
 {
     class Ej1
