@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Unidad1
+namespace Ejercicio1
 {
     class Ej1
     {
